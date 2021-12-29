@@ -1,0 +1,26 @@
+.btn{
+    border-radius: 10px;
+    background-color: rgb(219, 75, 75);
+    
+    margin-left: 100px;
+}
+.edit{
+    border-radius: 10px;
+    background-color: rgb(20, 196, 137);
+    border: none;
+    outline: none;
+    margin-left: 5px;
+    padding: 7px;
+}
+.btn:hover{
+    background-color:black;
+    color: whitesmoke;
+}
+.edit:hover{
+    background-color:black;
+    color: whitesmoke;
+}
+.list{
+list-style: none;
+color: whitesmoke;
+}
